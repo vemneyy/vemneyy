@@ -9,13 +9,11 @@ I am interested in system administration and am currently studying to become a p
 - Сisco IOS
 - Pre-CCNA Networking Skills
 - Python
-- Shell scripts
+- C / C++
 - Git
 - DevOps:
   * Docker
-  * Anisble
-  * Terraform
-  * Prometheus & Grafana
+
 
 ---
 ### Badges
