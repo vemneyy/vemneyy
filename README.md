@@ -1,16 +1,23 @@
-### Hi there 👋
+## About me
+### Skills 
+- Сisco IOS
+- Pre-CCNA Networking Skills
+- Linux/Unix
+- Python
+- C / C++
+- Shell scripts
+- Git
+- DevOps:
+  * Docker
 
-<!--
-**vemneyy/vemneyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Badges
+<a href="https://www.credly.com/badges/f3f65cde-4f4e-4c0b-bb65-7a997cff8e47/public_url"><img src="pics/mta.png" width="100"></a> 
+<a href="https://www.credly.com/badges/c1389ae9-2439-4681-ab1e-05def94ce4a5/public_url"><img src="pics/ccna.png" width="100"></a>
+<a href="https://www.credly.com/badges/360b172d-49f0-44bd-93e5-62ba2f46f3f0/public_url"><img src="pics/cyber.png" width="100"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div id="badges">
+<a href="https://twitter.com/hhytloer"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://t.me/bstzhvv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a><br>
+</div>
