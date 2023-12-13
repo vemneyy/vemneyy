@@ -3,16 +3,19 @@
 Hi, I'm Semyon 👋. 
 </div>
 I am interested in system administration and am currently studying to become a programmer. I find a lot of interesting things in this direction and strive to develop my skills.
+
 ### Skills 
+- Linux/Unix
 - Сisco IOS
 - Pre-CCNA Networking Skills
-- Linux/Unix
 - Python
-- C / C++
 - Shell scripts
 - Git
 - DevOps:
   * Docker
+  * Anisble
+  * Terraform
+  * Prometheus & Grafana
 
 ---
 ### Badges
