@@ -13,7 +13,9 @@ I am interested in system administration and am currently studying to become a p
 - Git
 - DevOps:
   * Docker
-
+### Learning now
+- Rust
+- Powershell
 
 ---
 ### Badges
