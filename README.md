@@ -2,7 +2,7 @@
 <div id="header" align="left">
 Hi, I'm Semyon 👋. 
 </div>
-I am interested in system administration and am currently studying to become a programmer. I find a lot of interesting things in this direction and strive to develop my skills.
+I am interested in system administration and am currently studying to become a programmer in order to subsequently achieve success in the direction of DevOps. I find a lot of interesting things in this direction and strive to develop my skills.
 
 ### Skills 
 - Linux/Unix
