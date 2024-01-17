@@ -16,6 +16,7 @@ I am interested in system administration and am currently studying to become a p
 ### Learning now
 - Rust
 - Powershell
+- C#
 
 ---
 ### Badges
