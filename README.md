@@ -13,6 +13,7 @@ I am interested in system administration and am currently studying to become a p
 - Git
 - DevOps:
   * Docker
+  * Ansible
 ### Learning now
 - Rust
 - Powershell
