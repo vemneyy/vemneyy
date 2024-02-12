@@ -28,5 +28,4 @@ I am interested in system administration and am currently studying to become a p
 ---
 <div id="badges">
 <a href="https://twitter.com/hhytloer"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-<a href="https://t.me/bstzhvv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a><br>
 </div>
