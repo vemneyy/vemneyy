@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=vemneyy&color=orange)
+
 ## About me
 <div id="header" align="left">
 Hi, I'm Semyon 👋
