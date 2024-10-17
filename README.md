@@ -18,7 +18,7 @@ I am interested in system administration and am currently studying to become a p
 ### Learning now
 - Rust
 - Powershell
-- 
+  
 ---
 ### Badges
 <a href="https://www.credly.com/badges/f3f65cde-4f4e-4c0b-bb65-7a997cff8e47/public_url"><img src="mta.png" width="100"></a> 
