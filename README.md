@@ -32,5 +32,5 @@ I am interested in system administration and am currently studying to become a p
 ---
 ### Stats
 ![image](https://github-readme-stats.vercel.app/api?username=vemneyy&count_private=1&theme=radical)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=vemneyy&layout=compact)
+![image](https://camo.githubusercontent.com/a2f9534a257006ba3585f7ab2feabb8e35bda5d21bd9deab0c00cf138ebc126b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76656d6e657979266c61796f75743d636f6d70616374)
 
