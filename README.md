@@ -15,8 +15,10 @@ I am interested in system administration and am currently studying to become a p
 - C / C++ / C#
 - Git
 - DevOps:
-  * Docker
+  * Docker / Kubernetes
   * Ansible
+  * Terraform
+  * Jenkins
   * Grafana
 ### Learning now
 - Rust
