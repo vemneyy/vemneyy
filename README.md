@@ -2,9 +2,9 @@
 
 ## About me
 <div id="header" align="left">
-Hi, I'm Semyon 👋
+Hey there!👋 I'm Semyon
 </div>
-I am interested in system administration and am currently studying to become a programmer in order to subsequently achieve success in the direction of DevOps. I find a lot of interesting things in this direction and strive to develop my skills.
+I'm all about system admin stuff. Right now, I'm studying to be a programmer and eventually become a DevOps pro. It's a really interesting field and I'm working hard to improve my skills.
 
 ---
 ### Skills 
