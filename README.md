@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=vemneyy&color=orange)
-
-## About me
 <div id="header" align="left">
 Hey there! I'm Semyon
 </div>
