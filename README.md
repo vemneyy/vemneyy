@@ -1,5 +1,5 @@
 <div id="header" align="left">
-Hey there! I'm Semyon
+Hey there!
 </div>
 I'm all about system admin stuff. Right now, I'm studying to be a programmer and eventually become a DevOps pro. It's a really interesting field and I'm working hard to improve my skills.
 
