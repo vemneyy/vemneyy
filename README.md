@@ -1,27 +1,3 @@
-<div id="header" align="left">
-Hey there!
-</div>
-I'm all about system admin stuff. Right now, I'm studying to be a programmer and eventually become a DevOps pro. It's a really interesting field and I'm working hard to improve my skills.
-
----
-### Skills 
-- Linux/Unix
-- Сisco IOS
-- CCNA Networking Skills
-- Python
-- C / C++ / C#
-- Git
-- DevOps:
-  * Docker / Kubernetes
-  * Ansible
-  * Terraform
-  * Jenkins
-  * Grafana
-### Learning now
-- Rust
-- Powershell
-  
----
 ### Badges
 <a href="https://www.credly.com/badges/896df00e-5d2b-4871-893d-fc7a7ba3791a/public_url"><img src="ghf.png" width="100"></a>
 <a href="https://www.credly.com/badges/f3f65cde-4f4e-4c0b-bb65-7a997cff8e47/public_url"><img src="mta.png" width="100"></a> 
